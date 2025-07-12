@@ -1,1 +1,1 @@
-# Integrated-College-Management-System
+# Smart Academic Portal
